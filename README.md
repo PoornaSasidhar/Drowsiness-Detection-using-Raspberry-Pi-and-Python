@@ -11,7 +11,6 @@ A Python-based drowsiness detection system using a Raspberry Pi and computer vis
 - dlib library for face detection and shape prediction
 - imutils library for face utilities
 - RPi.GPIO library for controlling GPIO pins
-- shape_predictor_68_face_landmarks.dat file
 
 ## 🔍Code Overview
 - Import necessary libraries and modules.
